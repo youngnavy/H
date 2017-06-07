@@ -498,34 +498,36 @@ article footer .tags {
   padding-top: 60px;
 }
 #cover #profile a {
-  font-size: 12px;
-  color: #333;
+  font-size: 42px;
+  color: FF0033;
+}
+#cover font-weight 900 {
   text-transform: uppercase;
 }
-#cover #profile .logo {
+#cover .logo {
   margin-bottom: 10px;
 }
-#cover #profile .logo img {
+#cover .logo img {
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 400px;
+  height: 400px;
   -webkit-box-shadow: 0 0 1px #fff;
   box-shadow: 0 0 1px #fff;
 }
-#cover #profile .my-socials {
+#cover .my-socials {
   display: inline-block;
   list-style: none;
   margin: 0 auto;
 }
-#cover #profile .my-socials li {
+#cover .my-socials li {
   float: left;
   width: 30px;
   margin: 5px;
 }
-#cover #profile .my-socials li a {
+#cover .my-socials li a {
   background: #cd5c5c;
   text-decoration: none;
   display: block;
@@ -535,24 +537,24 @@ article footer .tags {
   border-radius: 30px;
   color: #fff;
 }
-#cover #profile .my-socials li a:hover {
+#cover .my-socials li a:hover {
   color: #fff;
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
-#cover #profile .my-socials li .weibo {
+#cover .my-socials li .weibo {
   background-color: #e20021;
 }
-#cover #profile .my-socials li .github {
+#cover .my-socials li .github {
   background-color: #333;
 }
-#cover #profile .my-socials li .twitter {
+#cover .my-socials li .twitter {
   background-color: #00b6f3;
 }
-#cover #profile .my-socials li .email {
+#cover .my-socials li .email {
   background-color: #ffd700;
 }
-#cover #profile .my-socials li i {
+#cover .my-socials li i {
   font-size: 18px;
   font-style: normal;
   line-height: 30px;
